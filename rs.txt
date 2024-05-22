@@ -1,0 +1,198 @@
+
+Details from server CA1STAB3132P.customer.rxcorp.com...
+
+server WebAppName           Version State   UserIdentityType        Username Password
+------ ----------           ------- -----   ----------------        -------- --------
+       .NET v2.0            v2.0    Started ApplicationPoolIdentity                  
+       .NET v2.0 Classic    v2.0    Started ApplicationPoolIdentity                  
+       .NET v4.5            v4.0    Started ApplicationPoolIdentity                  
+       .NET v4.5 Classic    v4.0    Started ApplicationPoolIdentity                  
+       Classic .NET AppPool v2.0    Started ApplicationPoolIdentity                  
+       DefaultAppPool       v4.0    Started ApplicationPoolIdentity                  
+       OLAP                 v2.0    Started ApplicationPoolIdentity                  
+
+
+Details from server CA1STAB3601P.customer.rxcorp.com...
+
+server WebAppName           Version State   UserIdentityType        Username Password
+------ ----------           ------- -----   ----------------        -------- --------
+       .NET v2.0            v2.0    Started ApplicationPoolIdentity                  
+       .NET v2.0 Classic    v2.0    Started ApplicationPoolIdentity                  
+       .NET v4.5            v4.0    Started ApplicationPoolIdentity                  
+       .NET v4.5 Classic    v4.0    Started ApplicationPoolIdentity                  
+       Classic .NET AppPool v2.0    Started ApplicationPoolIdentity                  
+       DefaultAppPool       v4.0    Started ApplicationPoolIdentity                  
+       OLAP                 v2.0    Started ApplicationPoolIdentity                  
+
+
+Details from server CA1STAB3967P.Customer.rxcorp.com...
+
+server WebAppName           Version State   UserIdentityType        Username Password
+------ ----------           ------- -----   ----------------        -------- --------
+       .NET v2.0            v2.0    Started ApplicationPoolIdentity                  
+       .NET v2.0 Classic    v2.0    Started ApplicationPoolIdentity                  
+       .NET v4.5            v4.0    Started ApplicationPoolIdentity                  
+       .NET v4.5 Classic    v4.0    Started ApplicationPoolIdentity                  
+       Classic .NET AppPool v2.0    Started ApplicationPoolIdentity                  
+       DefaultAppPool       v4.0    Started ApplicationPoolIdentity                  
+       MicroStrategyMDXPool v4.0    Started LocalSystem                              
+       OLAP                 v4.0    Started ApplicationPoolIdentity                  
+
+
+Details from server CA1STAB2950P.CUSTOMER.RXCORP.COM...
+
+server WebAppName           Version State   UserIdentityType        Username Password
+------ ----------           ------- -----   ----------------        -------- --------
+       .NET v2.0            v2.0    Started ApplicationPoolIdentity                  
+       .NET v2.0 Classic    v2.0    Started ApplicationPoolIdentity                  
+       .NET v4.5            v4.0    Started ApplicationPoolIdentity                  
+       .NET v4.5 Classic    v4.0    Started ApplicationPoolIdentity                  
+       Classic .NET AppPool v2.0    Started ApplicationPoolIdentity                  
+       DefaultAppPool       v4.0    Started ApplicationPoolIdentity                  
+       OLAP                 v4.0    Started ApplicationPoolIdentity                  
+
+
+Details from server CA1STAB3570P.customer.rxcorp.com...
+
+server WebAppName           Version State   UserIdentityType        Username Password
+------ ----------           ------- -----   ----------------        -------- --------
+       .NET v2.0            v2.0    Started ApplicationPoolIdentity                  
+       .NET v2.0 Classic    v2.0    Started ApplicationPoolIdentity                  
+       .NET v4.5            v4.0    Started ApplicationPoolIdentity                  
+       .NET v4.5 Classic    v4.0    Started ApplicationPoolIdentity                  
+       Classic .NET AppPool v2.0    Started ApplicationPoolIdentity                  
+       DefaultAppPool       v4.0    Started ApplicationPoolIdentity                  
+       OLAP                 v2.0    Started ApplicationPoolIdentity                  
+
+
+Details from server CA1STAB3702P.CUSTOMER.RXCORP.COM...
+
+server WebAppName           Version State   UserIdentityType        Username Password
+------ ----------           ------- -----   ----------------        -------- --------
+       .NET v2.0            v2.0    Started ApplicationPoolIdentity                  
+       .NET v2.0 Classic    v2.0    Started ApplicationPoolIdentity                  
+       .NET v4.5            v4.0    Started ApplicationPoolIdentity                  
+       .NET v4.5 Classic    v4.0    Started ApplicationPoolIdentity                  
+       Classic .NET AppPool v2.0    Started ApplicationPoolIdentity                  
+       DefaultAppPool       v4.0    Started ApplicationPoolIdentity                  
+       OLAP                 v2.0    Started ApplicationPoolIdentity                  
+
+
+Details from server CA1STAB3826P.CUSTOMER.RXCORP.COM...
+
+server WebAppName           Version State   UserIdentityType        Username Password
+------ ----------           ------- -----   ----------------        -------- --------
+       .NET v2.0            v2.0    Started ApplicationPoolIdentity                  
+       .NET v2.0 Classic    v2.0    Started ApplicationPoolIdentity                  
+       .NET v4.5            v4.0    Started ApplicationPoolIdentity                  
+       .NET v4.5 Classic    v4.0    Started ApplicationPoolIdentity                  
+       Classic .NET AppPool v2.0    Started ApplicationPoolIdentity                  
+       DefaultAppPool       v4.0    Started ApplicationPoolIdentity                  
+       OLAP                 v4.0    Started ApplicationPoolIdentity                  
+
+
+Details from server CA1STAB2841P.CUSTOMER.RXCORP.COM...
+
+server WebAppName           Version State   UserIdentityType        Username Password
+------ ----------           ------- -----   ----------------        -------- --------
+       .NET v2.0            v2.0    Started ApplicationPoolIdentity                  
+       .NET v2.0 Classic    v2.0    Started ApplicationPoolIdentity                  
+       .NET v4.5            v4.0    Started ApplicationPoolIdentity                  
+       .NET v4.5 Classic    v4.0    Started ApplicationPoolIdentity                  
+       Classic .NET AppPool v2.0    Started ApplicationPoolIdentity                  
+       DefaultAppPool       v4.0    Started ApplicationPoolIdentity                  
+       MicroStrategyMDXPool v4.0    Started LocalSystem                              
+       OLAP                 v4.0    Started ApplicationPoolIdentity                  
+
+
+Details from server ca1stab2723p.customer.rxcorp.com...
+
+server WebAppName           Version State   UserIdentityType        Username Password
+------ ----------           ------- -----   ----------------        -------- --------
+       .NET v2.0            v2.0    Started ApplicationPoolIdentity                  
+       .NET v2.0 Classic    v2.0    Started ApplicationPoolIdentity                  
+       .NET v4.5            v4.0    Started ApplicationPoolIdentity                  
+       .NET v4.5 Classic    v4.0    Started ApplicationPoolIdentity                  
+       Classic .NET AppPool v2.0    Started ApplicationPoolIdentity                  
+       DefaultAppPool       v4.0    Started ApplicationPoolIdentity                  
+       OLAP                 v4.0    Started ApplicationPoolIdentity                  
+
+
+Details from server CA1STAB3978P.CUSTOMER.RXCORP.COM...
+
+server WebAppName           Version State   UserIdentityType        Username Password
+------ ----------           ------- -----   ----------------        -------- --------
+       .NET v2.0            v2.0    Started ApplicationPoolIdentity                  
+       .NET v2.0 Classic    v2.0    Started ApplicationPoolIdentity                  
+       .NET v4.5            v4.0    Started ApplicationPoolIdentity                  
+       .NET v4.5 Classic    v4.0    Started ApplicationPoolIdentity                  
+       Classic .NET AppPool v2.0    Started ApplicationPoolIdentity                  
+       DefaultAppPool       v4.0    Started ApplicationPoolIdentity                  
+       MicroStrategyMDXPool v4.0    Started LocalSystem                              
+       OLAP                 v4.0    Started ApplicationPoolIdentity                  
+
+
+Details from server CDTSOLAP63P.CUSTOMER.RXCORP.COM...
+
+server WebAppName           Version State   UserIdentityType        Username Password
+------ ----------           ------- -----   ----------------        -------- --------
+       .NET v2.0            v2.0    Started ApplicationPoolIdentity                  
+       .NET v2.0 Classic    v2.0    Started ApplicationPoolIdentity                  
+       .NET v4.5            v4.0    Started ApplicationPoolIdentity                  
+       .NET v4.5 Classic    v4.0    Started ApplicationPoolIdentity                  
+       Classic .NET AppPool v2.0    Started ApplicationPoolIdentity                  
+       DefaultAppPool       v4.0    Started ApplicationPoolIdentity                  
+       OLAP                 v4.0    Started ApplicationPoolIdentity                  
+
+
+Details from server CDTSOLAPSQ2229P.CUSTOMER.RXCORP.COM...
+
+server WebAppName           Version State   UserIdentityType        Username Password
+------ ----------           ------- -----   ----------------        -------- --------
+       .NET v2.0            v2.0    Started ApplicationPoolIdentity                  
+       .NET v2.0 Classic    v2.0    Started ApplicationPoolIdentity                  
+       .NET v4.5            v4.0    Started ApplicationPoolIdentity                  
+       .NET v4.5 Classic    v4.0    Started ApplicationPoolIdentity                  
+       Classic .NET AppPool v2.0    Started ApplicationPoolIdentity                  
+       DefaultAppPool       v4.0    Started ApplicationPoolIdentity                  
+       OLAP                 v4.0    Started ApplicationPoolIdentity                  
+
+
+Details from server CDTSOLAPSQ2272P.CUSTOMER.RXCORP.COM...
+
+server WebAppName           Version State   UserIdentityType        Username Password
+------ ----------           ------- -----   ----------------        -------- --------
+       .NET v2.0            v2.0    Started ApplicationPoolIdentity                  
+       .NET v2.0 Classic    v2.0    Started ApplicationPoolIdentity                  
+       .NET v4.5            v4.0    Started ApplicationPoolIdentity                  
+       .NET v4.5 Classic    v4.0    Started ApplicationPoolIdentity                  
+       Classic .NET AppPool v2.0    Started ApplicationPoolIdentity                  
+       DefaultAppPool       v4.0    Started ApplicationPoolIdentity                  
+       OLAP                 v4.0    Started ApplicationPoolIdentity                  
+
+
+Details from server CDTSOLAP911P.CUSTOMER.RXCORP.COM...
+
+server WebAppName           Version State   UserIdentityType        Username Password
+------ ----------           ------- -----   ----------------        -------- --------
+       .NET v2.0            v2.0    Started ApplicationPoolIdentity                  
+       .NET v2.0 Classic    v2.0    Started ApplicationPoolIdentity                  
+       .NET v4.5            v4.0    Started ApplicationPoolIdentity                  
+       .NET v4.5 Classic    v4.0    Started ApplicationPoolIdentity                  
+       Classic .NET AppPool v2.0    Started ApplicationPoolIdentity                  
+       DefaultAppPool       v4.0    Started ApplicationPoolIdentity                  
+       OLAP                 v4.0    Started ApplicationPoolIdentity                  
+
+
+Details from server CDTSOLAP690P.CUSTOMER.RXCORP.COM...
+
+server WebAppName           Version State   UserIdentityType        Username Password
+------ ----------           ------- -----   ----------------        -------- --------
+       .NET v2.0            v2.0    Started ApplicationPoolIdentity                  
+       .NET v2.0 Classic    v2.0    Started ApplicationPoolIdentity                  
+       .NET v4.5            v4.0    Started ApplicationPoolIdentity                  
+       .NET v4.5 Classic    v4.0    Started ApplicationPoolIdentity                  
+       Classic .NET AppPool v2.0    Started ApplicationPoolIdentity                  
+       DefaultAppPool       v4.0    Started ApplicationPoolIdentity                  
+       OLAP                 v4.0    Started ApplicationPoolIdentity                  
+
