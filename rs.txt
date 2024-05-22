@@ -20,7 +20,10 @@ server WebAppName           Version State   UserIdentityType        Username Pas
        .NET v2.0 Classic    v2.0    Started ApplicationPoolIdentity                  
        .NET v4.5            v4.0    Started ApplicationPoolIdentity                  
        .NET v4.5 Classic    v4.0    Started ApplicationPoolIdentity                  
-       Classic .NET AppPool v2.0    Started ApplicationPoolIdentity                  
+       Classic .NET AppPool v2.0    Started ApplicationPoolIdentity           
+
+
+new changes
        DefaultAppPool       v4.0    Started ApplicationPoolIdentity                  
        OLAP                 v2.0    Started ApplicationPoolIdentity                  
 
