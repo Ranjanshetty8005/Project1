@@ -33,7 +33,7 @@ public class ShowMenu {
 			case 6:
 				System.exit(0);
 			default:
-				System.out.println("Please Enter Valid Choice!");
+				System.out.println("Please Enter Valid Choice...!");
 			}
 		}
 	}
